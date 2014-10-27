@@ -1,0 +1,3 @@
+Tweaked the TRT kernel downloaded from Bruce Land's site at Cornell University to compile in 
+Atmel Studio 6.1 (avr-gcc 4.3.3) and 6.2 (avr-gcc 4.8.1) for mega644 and mega1284.
+Tested in "real life" on a mega644p and in the Atmel Studio debugger for mega1284p.
